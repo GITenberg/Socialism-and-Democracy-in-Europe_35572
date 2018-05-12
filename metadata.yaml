@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1098
     wikipedia: http://ech.case.edu/ech-cgi/article.pl?id=OSP
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35572#Socialism-and-Democracy-in-Europe
 gutenberg_issued: '2011-03-13'
 gutenberg_type: Text
 identifiers:
