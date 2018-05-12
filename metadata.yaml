@@ -1,0 +1,29 @@
+_repo: Socialism-and-Democracy-in-Europe_35572
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35572-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Orth, Samuel Peter
+    birthdate: 1873
+    deathdate: 1922
+    gutenberg_agent_id: '1098'
+    url: http://www.gutenberg.org/2009/agents/1098
+    wikipedia: http://ech.case.edu/ech-cgi/article.pl?id=OSP
+description: ''
+gutenberg_issued: '2011-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35572'
+  lccn: '13003236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Democracy'
+- !lcsh 'Socialism'
+- !lcc 'HX'
+title: Socialism and Democracy in Europe
+url: http://www.gutenberg.org/ebooks/35572
